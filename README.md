@@ -1,15 +1,24 @@
 ### Date created
-Include the date you created this project and README file.
+11/29/2020
 
 ### Project Title
-Replace the Project Title
+Project_3 git commands documentation
 
 ### Description
-Describe what your project is about and what it does
+This project contains the Python script for the Bikeshare data analysis project and tests the git Source Version Control
 
 ### Files used
-Include the files used
+Bikeshare_Project.py (script)
+
+csv files:
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+
+
+##testing changes
 
