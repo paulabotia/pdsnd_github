@@ -22,3 +22,5 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ##testing changes
 
+##changes to the documentation (README.md & script)
+
